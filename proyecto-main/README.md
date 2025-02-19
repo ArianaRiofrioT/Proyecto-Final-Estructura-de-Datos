@@ -1,7 +1,6 @@
-## 📸 Capturas de la Implementación Final de la UI
 
-### 📌 Pantalla de Inicio  
-![Pantalla de Inicio](imagenes/inicio.jpeg)
+
+![Pantalla de Inicio](imagenes/UPS.jpeg)
 
 
 ## Proyecto Laberinto
@@ -11,14 +10,14 @@
 - Cristina Loja - clojap1@est.ups.edu.ec
 - Ariana Riofrío - ariofriot@est.ups.edu.ec
 
-## 📸 Capturas de la Implementación Final de la UI
 
 
-### 📌 Generación del Laberinto  
+## 📸 Capturas de la Implementación de la UI
+### 📌 Generación  y resulución del Laberinto
+
 ![Generación del Laberinto](imagenes/inicio.jpeg)
+![Resolución del Laberinto](imagenes/recorrido.jpeg)
 
-### 📌 Resolución del Laberinto  
-![Resolución del Laberinto](imagenes/reccorido.jpeg)
 
 ## Materia
 Estructura de Datos
@@ -26,8 +25,6 @@ Estructura de Datos
 ## Docente
 Ing. Pablo Torres
 
-## Capturas de la Implementación Final de la UI
-(Insertar imágenes de la interfaz aquí)
 
 ## Descripción
 
